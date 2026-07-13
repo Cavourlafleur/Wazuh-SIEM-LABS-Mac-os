@@ -24,8 +24,7 @@ HopeHealth AI is a fictional healthtech startup that stores sensitive patient in
 - HIPAA
 - ISO 27001
 - NIST
-- GDPR
-- HITRUST-style readiness
+  
 
 ## What This Project Shows
 - How to collect compliance evidence from Wazuh
